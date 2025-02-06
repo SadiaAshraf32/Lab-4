@@ -4,3 +4,11 @@ Console.WriteLine("Enter 2nd number");
 int y = Convert.ToInt32(Console.ReadLine());
 int z = x+y
 Console.WriteLine("Sum of numbers is "+z);
+
+Multiplication
+Console.WriteLine("Enter 1st number");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd number");
+int y = Convert.ToInt32(Console.ReadLine());
+int z = x*y
+Console.WriteLine("Product of numbers is "+z);
